@@ -1,6 +1,6 @@
 <h1 align="center">I'm🙋‍♀️ BJayodha</h1>
 <h3 align="center">Full-Stack developer👩‍💻|Undergraduate👩‍🎓</h3>
-<img align="center" alt="coding" width"50"  src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
+<img align="center" alt="coding" width"50"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
 
 - 🌱 I’m currently learning **Angular,React,Flutter**
 
