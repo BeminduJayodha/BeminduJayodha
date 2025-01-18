@@ -1,5 +1,5 @@
 <h1 align="center">I'm🙋‍♀️ BJayodha</h1>
-<h3 align="center">Full-Stack developer👩‍💻|👩‍🎓</h3>
+<h3 align="center">Full Stack Developer👩‍💻|👩‍🎓</h3>
 <img align="center" alt="coding" width"50"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
 
 - 🌱 I’m currently learning **Angular,React,Flutter**
